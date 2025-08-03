@@ -1,1 +1,1 @@
-# mdining
+# Welcome to  MDining app!
